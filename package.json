@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "mean-stack-frontend",
   "version": "0.0.0",
   "scripts": {
@@ -46,3 +47,20 @@
     "typescript": "~5.9.2"
   }
 }
+=======
+  "name": "mean-stack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+>>>>>>> 5b9ab88 (Initial backend setup woth mode and epxress)
