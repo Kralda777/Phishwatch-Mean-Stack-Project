@@ -1,3 +1,14 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background: url('https://storage.googleapis.com/galancer/garudeya-com/Phishing-Attack-Vector-Concept-Illustration.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
 body {
   background: #eef2ff;
   font-family: Arial, sans-serif;
